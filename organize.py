@@ -63,5 +63,6 @@ if __name__ == "__main__":
     print("==================================================")
     print("**************************************************")
     print("==================================================")
-    organize_folder(TARGET_FOLDER)
     print(f"Organizing folder: {TARGET_FOLDER}")
+    organize_folder(TARGET_FOLDER)
+   
